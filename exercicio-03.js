@@ -1,0 +1,1 @@
+// Leia a idade de 20 pessoas e exiba a soma das idades.
